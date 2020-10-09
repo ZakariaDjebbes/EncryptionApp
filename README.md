@@ -6,17 +6,17 @@ This is also my first GUI app ever!
 # Algorithms
 
 - Cesar encryption _(with any offset and only for alphabet)_
-- By key _(With anykey length and only for alphabet)_
+- By key _(With any key length and only for alphabet)_
 - By substitution _(Alphabet only)_
 - Polybe encryption _(With both line-column and column-line and for any character defenied by the user)
 - To binary _(Using UTF-8 values of chars and has 3 types normal, CP1 and CP2)_
 
 All results can be saved to a text file.
 
-#Problems and issues
+# Problems and issues
 - Everything runs on the same thread (didn't know threads back in the time), with big texts the app freezes for some time.
 - Some ugly code
 - Most algorithms only take in account alphabet
 - Ugly UI
 
-#Screenshots
+# Screenshots
