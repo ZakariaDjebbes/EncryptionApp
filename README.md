@@ -20,3 +20,7 @@ All results can be saved to a text file.
 - Ugly UI
 
 # Screenshots
+Screenshot #1       |  Screenshot #2
+:-------------------------:|:-------------------------:
+![alt text](EncryptionApp/ScreenShots/App.JPG) |![alt text](EncryptionApp/ScreenShots/Example.JPG)
+ 
